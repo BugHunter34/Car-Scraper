@@ -1,155 +1,151 @@
 Brand: Peugeot
-- Name: Peugeot 307, Combi 2,0 HDi 100 KW.Panorama, Price: 39999 Kč, Detail: Combi 2,0 HDi 100 KW.Panorama
-- Name: Peugeot 2008, EV Allure 100kW 50 kWh 3-faze, Price: 468000 Kč, Detail: EV Allure 100kW 50 kWh 3-faze
-- Name: Peugeot 5008, ALLURE PACK BlueHDi 130 EAT 8, Price: 897000 Kč, Detail: ALLURE PACK BlueHDi 130 EAT 8
-
-Brand: Mercedes-Benz
-- Name: Mercedes-Benz ML, 320 CDI, 270kW 4MATIC, Price: 68000 Kč, Detail: 320 CDI, 270kW 4MATIC
-- Name: Mercedes-Benz Třídy C, 2,1 220 d kombi  d kombi, Price: 480000 Kč, Detail: 2,1 220 d kombi  d kombi
-- Name: Mercedes-Benz Třídy B, 2,0 180 d manuál  d manuál, Price: 495000 Kč, Detail: 2,0 180 d manuál  d manuál
-- Name: Mercedes-Benz Vito, Mercedes-Benz, Price: 649000 Kč, Detail: Mercedes-Benz
-- Name: Mercedes-Benz Třídy A, 1,3 180  180, Price: 740000 Kč, Detail: 1,3 180  180
-- Name: Mercedes-Benz Třídy E, 300De*9-G*DPH*1-MAJ*Plug-in*, Price: 749000 Kč, Detail: 300De*9-G*DPH*1-MAJ*Plug-in*
-- Name: Mercedes-Benz CLA, 2,0 180 d  d SB, Price: 750000 Kč, Detail: 2,0 180 d  d SB
-- Name: Mercedes-Benz CLA, 2,0 180 d SB  d SB, Price: 755000 Kč, Detail: 2,0 180 d SB  d SB
-- Name: Mercedes-Benz Třídy E, 2,0 220 d 4M  220 d 4M, Price: 1581470 Kč, Detail: 2,0 220 d 4M  220 d 4M
-- Name: Mercedes-Benz Třídy E, 2,0 E 300 de 4MATIC Avantgarde, Price: 1595000 Kč, Detail: 2,0 E 300 de 4MATIC Avantgarde
-- Name: Mercedes-Benz GLC, 2,0 300 de 4M  300 de 4M, Price: 1640000 Kč, Detail: 2,0 300 de 4M  300 de 4M
-- Name: Mercedes-Benz Třídy C, 2,0 43 4MATIC  4MATIC, Price: 1650000 Kč, Detail: 2,0 43 4MATIC  4MATIC
-- Name: Mercedes-Benz GLE, 2,9 400 d 4MATIC  d 4MATIC, Price: 1934790 Kč, Detail: 2,9 400 d 4MATIC  d 4MATIC
-- Name: Mercedes-Benz EQE, 43 AMG 4MATIC  43 AMG 4M, Price: 2046110 Kč, Detail: 43 AMG 4MATIC  43 AMG 4M
-- Name: Mercedes-Benz GLS, 350d 4M AMG Burm Tažné Záruka, Price: 2149000 Kč, Detail: 350d 4M AMG Burm Tažné Záruka
-- Name: Mercedes-Benz GLE, 450d 4M AMG Vzduch Night Tažné, Price: 2279000 Kč, Detail: 450d 4M AMG Vzduch Night Tažné
-- Name: Mercedes-Benz GLE, 3,0 450 d 4MATIC  d 4MATIC, Price: 2317500 Kč, Detail: 3,0 450 d 4MATIC  d 4MATIC
+- Name: Peugeot 3008, Price: 350000 Kč, KM Driven: 152201 km, Year: 2017
+- Name: Peugeot 2008, Price: 350000 Kč, KM Driven: 74893 km, Year: 2020
+- Name: Peugeot 208, Price: 400000 Kč, KM Driven: 0 km, Year: 2025
+- Name: Peugeot 3008, Price: 907000 Kč, KM Driven: 0 km, Year: 2024
 
 Brand: Škoda
-- Name: Škoda Fabia, 1.2 12V, Ambiente, po STK, Price: 33000 Kč, Detail: 1.2 12V, Ambiente, po STK
-- Name: Škoda Fabia, COMBI AMBITION 1,4 TDI 66 kW, Price: 129900 Kč, Detail: COMBI AMBITION 1,4 TDI 66 kW
-- Name: Škoda Fabia, FABIA 1.MAJITEL, Price: 199000 Kč, Detail: FABIA 1.MAJITEL
-- Name: Škoda Superb, 2.0 TDI 125KW, Price: 220000 Kč, Detail: 2.0 TDI 125KW
-- Name: Škoda Octavia, 1.MAJITEL, Price: 239000 Kč, Detail: 1.MAJITEL
-- Name: Škoda Superb, 2,0 TDi 4x4,1.maj.,DSG,webasto, Price: 249900 Kč, Detail: 2,0 TDi 4x4,1.maj.,DSG,webasto
-- Name: Škoda Superb, 2.0TDI 140kW DSG 4x4 Style, Price: 298000 Kč, Detail: 2.0TDI 140kW DSG 4x4 Style
-- Name: Škoda Fabia, IV 1.0TSI 81kW AMBITION+ LED, Price: 309000 Kč, Detail: IV 1.0TSI 81kW AMBITION+ LED
-- Name: Škoda Scala, 1.0 TSI, Style, Style, Price: 460000 Kč, Detail: 1.0 TSI, Style, Style
-- Name: Škoda Karoq, 1.5TSi 110kW Sportline LED DPH, Price: 577000 Kč, Detail: 1.5TSi 110kW Sportline LED DPH
-- Name: Škoda Kodiaq, 2.0TDi 140kW 4x4 DSG STYLE ACC, Price: 579000 Kč, Detail: 2.0TDi 140kW 4x4 DSG STYLE ACC
-- Name: Škoda Octavia, COMBI AMBITION 1,5 TSI 110 kW, Price: 579900 Kč, Detail: COMBI AMBITION 1,5 TSI 110 kW
-- Name: Škoda Kodiaq, L&K 4x4 DSG, Price: 962000 Kč, Detail: L&K 4x4 DSG
-- Name: Škoda Kodiaq, 2.0TDI,147kW,DSG,4x4,Sportline, Price: 979000 Kč, Detail: 2.0TDI,147kW,DSG,4x4,Sportline
-
-Brand: Volkswagen
-- Name: Volkswagen New Beetle, 1.MAJITELKA, Price: 35000 Kč, Detail: 1.MAJITELKA
-- Name: Volkswagen Golf, 2.0 TDI GTD, Price: 120000 Kč, Detail: 2.0 TDI GTD
-- Name: Volkswagen Golf, 1.8, SPZ, STK, Price: 180000 Kč, Detail: 1.8, SPZ, STK
-- Name: Volkswagen Golf Sportsvan, 1.4TSi 110kW DSG KAMERA, DPH, Price: 259000 Kč, Detail: 1.4TSi 110kW DSG KAMERA, DPH
-- Name: Volkswagen Passat, 2.0TDI DSG 110kW Highline, Price: 288000 Kč, Detail: 2.0TDI DSG 110kW Highline
-- Name: Volkswagen Passat, 2.0TDI VÝHŘEV SENZORY SERVISKA, Price: 288000 Kč, Detail: 2.0TDI VÝHŘEV SENZORY SERVISKA
-- Name: Volkswagen ID.3, 150kW First Edition Matrix DPH, Price: 469000 Kč, Detail: 150kW First Edition Matrix DPH
-- Name: Volkswagen ID.3, 150kW Pro.S 82kWh Tepelko, DPH, Price: 549000 Kč, Detail: 150kW Pro.S 82kWh Tepelko, DPH
-- Name: Volkswagen Multivan, 2.0 TDi DSG 4x4 HIGHLINE 1.MAJ, Price: 849000 Kč, Detail: 2.0 TDi DSG 4x4 HIGHLINE 1.MAJ
-- Name: Volkswagen Amarok, 3,0 TDi V6 177kW AVENTURA, Price: 1350000 Kč, Detail: 3,0 TDi V6 177kW AVENTURA
-
-Brand: BMW
-- Name: BMW Řada 3, 1,8 i  KLIMATIZACE, Price: 62900 Kč, Detail: 1,8 i  KLIMATIZACE
-- Name: BMW X6, 3.0 xDrive40d 225kW, ČR, DPH, Price: 359000 Kč, Detail: 3.0 xDrive40d 225kW, ČR, DPH
-- Name: BMW Řada 2, 218i Active Tourer, Price: 719000 Kč, Detail: 218i Active Tourer
-- Name: BMW X1, xDrive23i Mpaket, Price: 1049000 Kč, Detail: xDrive23i Mpaket
-- Name: BMW X6, xDrive 3.0d, Price: 1590000 Kč, Detail: xDrive 3.0d
-- Name: BMW M3, xDrive Carbon Záruka Laser CZ, Price: 2049000 Kč, Detail: xDrive Carbon Záruka Laser CZ
-- Name: BMW M4, Comp. xDrive Ceramic Carbon, Price: 2099000 Kč, Detail: Comp. xDrive Ceramic Carbon
-- Name: BMW X5, 30d xDrive M-Pro Merino H/K CZ, Price: 2169000 Kč, Detail: 30d xDrive M-Pro Merino H/K CZ
-- Name: BMW M3, Comp xDrive Remus Laser Záruka, Price: 2399000 Kč, Detail: Comp xDrive Remus Laser Záruka
-- Name: BMW M3, Comp RWD Ceramic Merino Záruka, Price: 2449000 Kč, Detail: Comp RWD Ceramic Merino Záruka
+- Name: Škoda Fabia, Price: 49900 Kč, KM Driven: 44511 km, Year: 2004
+- Name: Škoda Fabia, Price: 54900 Kč, KM Driven: 194514 km, Year: 2005
+- Name: Škoda Superb, Price: 75000 Kč, KM Driven: 215047 km, Year: 2006
+- Name: Škoda Superb, Price: 75000 Kč, KM Driven: 215047 km, Year: 2006
+- Name: Škoda Rapid, Price: 160000 Kč, KM Driven: 124453 km, Year: 2013
+- Name: Škoda Superb, Price: 165000 Kč, KM Driven: 228294 km, Year: 2009
+- Name: Škoda Superb, Price: 170000 Kč, KM Driven: 202175 km, Year: 2013
+- Name: Škoda Superb, Price: 170000 Kč, KM Driven: 202175 km, Year: 2013
+- Name: Škoda Octavia, Price: 177000 Kč, KM Driven: 153325 km, Year: 2013
+- Name: Škoda Yeti, Price: 205000 Kč, KM Driven: 131057 km, Year: 2011
+- Name: Škoda Octavia, Price: 225000 Kč, KM Driven: 143217 km, Year: 2015
+- Name: Škoda Fabia, Price: 260000 Kč, KM Driven: 94742 km, Year: 2020
+- Name: Škoda Superb, Price: 270000 Kč, KM Driven: 289878 km, Year: 2017
+- Name: Škoda Fabia, Price: 275000 Kč, KM Driven: 119140 km, Year: 2021
+- Name: Škoda Rapid, Price: 290000 Kč, KM Driven: 90230 km, Year: 2017
+- Name: Škoda Fabia, Price: 319000 Kč, KM Driven: 77480 km, Year: 2023
+- Name: Škoda Fabia, Price: 320000 Kč, KM Driven: 72697 km, Year: 2021
+- Name: Škoda Fabia, Price: 320000 Kč, KM Driven: 72697 km, Year: 2021
+- Name: Škoda Fabia, Price: 349000 Kč, KM Driven: 24740 km, Year: 2023
+- Name: Škoda Superb, Price: 350000 Kč, KM Driven: 187874 km, Year: 2018
+- Name: Škoda Octavia, Price: 429000 Kč, KM Driven: 81354 km, Year: 2021
+- Name: Škoda Superb, Price: 430000 Kč, KM Driven: 175016 km, Year: 2017
+- Name: Škoda Superb, Price: 430000 Kč, KM Driven: 175016 km, Year: 2017
+- Name: Škoda Kamiq, Price: 438000 Kč, KM Driven: 5688 km, Year: 2023
+- Name: Škoda Fabia, Price: 440000 Kč, KM Driven: 34093 km, Year: 2023
+- Name: Škoda Fabia, Price: 440000 Kč, KM Driven: 34093 km, Year: 2023
+- Name: Škoda Kamiq, Price: 449000 Kč, KM Driven: 112122 km, Year: 2020
+- Name: Škoda Octavia, Price: 459000 Kč, KM Driven: 83669 km, Year: 2020
+- Name: Škoda Octavia, Price: 498000 Kč, KM Driven: 92031 km, Year: 2022
+- Name: Škoda Superb, Price: 500000 Kč, KM Driven: 143025 km, Year: 2020
+- Name: Škoda Superb, Price: 519000 Kč, KM Driven: 117082 km, Year: 2018
+- Name: Škoda Karoq, Price: 589000 Kč, KM Driven: 55902 km, Year: 2022
+- Name: Škoda Kodiaq, Price: 719000 Kč, KM Driven: 94522 km, Year: 2020
+- Name: Škoda Octavia, Price: 809000 Kč, KM Driven: 25024 km, Year: 2024
+- Name: Škoda Octavia, Price: 809000 Kč, KM Driven: 25024 km, Year: 2024
+- Name: Škoda Kodiaq, Price: 1399000 Kč, KM Driven: 32758 km, Year: 2024
 
 Brand: Ford
-- Name: Ford Focus, 1.5 88kW EcoBlue Connected, Price: 399000 Kč, Detail: 1.5 88kW EcoBlue Connected
-- Name: Ford Tourneo Connect, 1.5EcoBlue 88kW 5-Míst DPH, Price: 428000 Kč, Detail: 1.5EcoBlue 88kW 5-Míst DPH
-- Name: Ford Tourneo Custom, 2.2TDCi 8 MÍST TITANIUM LONG, Price: 429000 Kč, Detail: 2.2TDCi 8 MÍST TITANIUM LONG
-- Name: Ford Tourneo Custom, 2.2TDCi 114kW 9 MÍST TITANIUM, Price: 439000 Kč, Detail: 2.2TDCi 114kW 9 MÍST TITANIUM
-- Name: Ford Tourneo Custom, TITANIUM 2.2TDCi 114kW 8 MÍST, Price: 477000 Kč, Detail: TITANIUM 2.2TDCi 114kW 8 MÍST
-- Name: Ford Transit Custom, 2.0TDCI 8-Míst ACC 1.Maj DPH, Price: 479000 Kč, Detail: 2.0TDCI 8-Míst ACC 1.Maj DPH
-- Name: Ford Edge, 2.0ECOBLUE,175KW, CZ, DPH, SER, Price: 529999 Kč, Detail: 2.0ECOBLUE,175KW, CZ, DPH, SER
-- Name: Ford Ranger, RAPTOR 157kW 4x4 ZÁRUKA, DPH, Price: 847000 Kč, Detail: RAPTOR 157kW 4x4 ZÁRUKA, DPH
-
-Brand: Audi
-- Name: Audi A3, 2.0TFSI 147kW 1.Maj DPH, Price: 194000 Kč, Detail: 2.0TFSI 147kW 1.Maj DPH
-- Name: Audi SQ5, 3.0BiTDi 230kW 4x4 EXCLUSIVE, Price: 569000 Kč, Detail: 3.0BiTDi 230kW 4x4 EXCLUSIVE
-- Name: Audi A6, 50 TDI S-Line Vzduch Matrix CZ, Price: 1899000 Kč, Detail: 50 TDI S-Line Vzduch Matrix CZ
-- Name: Audi RS6, Ceramic Carbon Pano Dynamik+, Price: 1899000 Kč, Detail: Ceramic Carbon Pano Dynamik+
-- Name: Audi Q8, 50 TDI S-Line B&O Nez.To Tažné, Price: 2249000 Kč, Detail: 50 TDI S-Line B&O Nez.To Tažné
-- Name: Audi RS6, 4.0TFSI Dyn+/Kerami/B&O/Matrix, Price: 2270000 Kč, Detail: 4.0TFSI Dyn+/Kerami/B&O/Matrix
-- Name: Audi RS Q8, Exclusive Carbon Ceramic 305km, Price: 2799000 Kč, Detail: Exclusive Carbon Ceramic 305km
-
-Brand: Unknown
-- Name: Mitsubishi Outlander, 2.2D-ID 130kW 4x4 7 MÍST, PDC, Price: 129000 Kč, Detail: 2.2D-ID 130kW 4x4 7 MÍST, PDC
-- Name: Kia Sportage, 1.7CRDi 85kW AC, Tažné, Price: 144000 Kč, Detail: 1.7CRDi 85kW AC, Tažné
-- Name: Suzuki SX4 S-Cross, 1.6 DDiS Tempomat-Aut.Klima, Price: 169000 Kč, Detail: 1.6 DDiS Tempomat-Aut.Klima
-- Name: Mini Countryman, S 1.6T 135kW 4x4 Xenon Kůže, Price: 250000 Kč, Detail: S 1.6T 135kW 4x4 Xenon Kůže
-- Name: Nissan LEAF, 110kW Acenta ACC 1.Maj DPH, Price: 328000 Kč, Detail: 110kW Acenta ACC 1.Maj DPH
-- Name: MG ZS, EV 105kW Luxury LED 1.Maj DPH, Price: 338000 Kč, Detail: EV 105kW Luxury LED 1.Maj DPH
-- Name: Kia Sorento, Kia Sorento 2014, 4x4, 145kw, Price: 400000 Kč, Detail: Kia Sorento 2014, 4x4, 145kw
-- Name: Jaguar XE, 2.0T 147kW  Aut. R-Sport 1.Maj, Price: 494000 Kč, Detail: 2.0T 147kW  Aut. R-Sport 1.Maj
-- Name: Lexus IS 300h, 2.5 Hybrid 133kW Business, Price: 529000 Kč, Detail: 2.5 Hybrid 133kW Business
-- Name: Seat Leon, Cupra 2.0TSI 221kW 4x4 DSG, Price: 559000 Kč, Detail: Cupra 2.0TSI 221kW 4x4 DSG
-- Name: Seat Tarraco, 1.5TSi 110kW STYLE*LED*ACC DPH, Price: 587000 Kč, Detail: 1.5TSi 110kW STYLE*LED*ACC DPH
-- Name: Jaguar F-Pace, 2.0T 184kW AWD R-SPORT 1.Maj, Price: 598000 Kč, Detail: 2.0T 184kW AWD R-SPORT 1.Maj
-- Name: Dodge Durango, 5,7 R/T HEMI 7míst 4x4 Tažné, Price: 649999 Kč, Detail: 5,7 R/T HEMI 7míst 4x4 Tažné
-- Name: Cupra Formentor, 2.0TSI DSG 140kW 4x4 1.Maj DPH, Price: 799000 Kč, Detail: 2.0TSI DSG 140kW 4x4 1.Maj DPH
-- Name: Cupra Formentor, 2.0TSI DSG 140kW 4x4 1.Maj DPH, Price: 799000 Kč, Detail: 2.0TSI DSG 140kW 4x4 1.Maj DPH
-- Name: Dodge Challenger, SRT Hellcat 6.2L 535kW Záruka, Price: 2299000 Kč, Detail: SRT Hellcat 6.2L 535kW Záruka
-- Name: Aston Martin, Vantage V8 375kW Q-Satin Carbo, Price: 2599000 Kč, Detail: Vantage V8 375kW Q-Satin Carbo
-- Name: Porsche 911, 991.2 Turbo S Bose LIFT Záruka, Price: 2849000 Kč, Detail: 991.2 Turbo S Bose LIFT Záruka
-- Name: Porsche 718, Cayman GTS 4.0 PDK Bose PDLS, Price: 2949000 Kč, Detail: Cayman GTS 4.0 PDK Bose PDLS
-- Name: Lexus LC 500, 5.0L V8 Bespoke Perf. MarkLev., Price: 2999000 Kč, Detail: 5.0L V8 Bespoke Perf. MarkLev.
-
-Brand: Toyota
-- Name: Toyota Land Cruiser, Toyota Land Cruiser 3.0D 127kW, Price: 429000 Kč, Detail: Toyota Land Cruiser 3.0D 127kW
-- Name: Toyota Proace, 2.0D A/T 8 MÍST, LONG, DPH, Price: 779000 Kč, Detail: 2.0D A/T 8 MÍST, LONG, DPH
-- Name: Toyota Tundra, 3.4 V6 Crewmax Platinum Tažné, Price: 2329000 Kč, Detail: 3.4 V6 Crewmax Platinum Tažné
-
-Brand: Renault
-- Name: Renault Clio, 1,2 16V 75k Authentique 16v, Price: 75000 Kč, Detail: 1,2 16V 75k Authentique 16v
-- Name: Renault Clio, 1,2i 48kW, Price: 79900 Kč, Detail: 1,2i 48kW
-- Name: Renault Fluence, 1.6SCE 1.MAJ VELMI PĚKNÉ TOP, Price: 145000 Kč, Detail: 1.6SCE 1.MAJ VELMI PĚKNÉ TOP
-- Name: Renault Trafic, 2,5 TDi 99kW GENERATION 7-MÍST, Price: 230000 Kč, Detail: 2,5 TDi 99kW GENERATION 7-MÍST
-- Name: Renault Espace, 1.6dCi MANUÁL 1 MAJITEL 7MÍST, Price: 329000 Kč, Detail: 1.6dCi MANUÁL 1 MAJITEL 7MÍST
-
-Brand: Opel
-- Name: Opel Astra, 1.6, Price: 20000 Kč, Detail: 1.6
-- Name: Opel Mokka, 1.4T 103kW Innovation 1.Maj TZ, Price: 239000 Kč, Detail: 1.4T 103kW Innovation 1.Maj TZ
-- Name: Opel Crossland, 1.2T 81kW Edition 1.Maj DPH, Price: 324000 Kč, Detail: 1.2T 81kW Edition 1.Maj DPH
-- Name: Opel Corsa, 100kW 50kWh 1.Maj DPH, Price: 398000 Kč, Detail: 100kW 50kWh 1.Maj DPH
-
-Brand: Citroën
-- Name: Citroën Grand C4 SpaceTourer, 1.2T 96kW Prestige 7-Míst DPH, Price: 269000 Kč, Detail: 1.2T 96kW Prestige 7-Míst DPH
-- Name: Citroën Grand C4 Picasso, 2.0HDi AUT LED KAMERY 7MÍST, Price: 286000 Kč, Detail: 2.0HDi AUT LED KAMERY 7MÍST
-- Name: Citroën Grand C4 SpaceTourer, 1.5HDI 96kW Busines 7-Míst DPH, Price: 308000 Kč, Detail: 1.5HDI 96kW Busines 7-Míst DPH
-- Name: Citroën Grand C4 SpaceTourer, 1.5HDi 96kW EAT8 7-Míst DPH, Price: 334000 Kč, Detail: 1.5HDi 96kW EAT8 7-Míst DPH
-- Name: Citroën Jumpy, 2.0HDI Business XL 5-Míst DPH, Price: 498000 Kč, Detail: 2.0HDI Business XL 5-Míst DPH
-
-Brand: Hyundai
-- Name: Hyundai i10, 1,0 Family, Price: 89000 Kč, Detail: 1,0 Family
-- Name: Hyundai ix35, 2.0CRDi AWD Style,serv.kn., Price: 289000 Kč, Detail: 2.0CRDi AWD Style,serv.kn.
-- Name: Hyundai IONIQ, EV 88kW Comfort 1.Maj, Price: 299000 Kč, Detail: EV 88kW Comfort 1.Maj
-- Name: Hyundai i30, T-GDI Performance 202kW, Price: 469000 Kč, Detail: T-GDI Performance 202kW
-- Name: Hyundai i30, 1,5 T-GDI, N-line, DCT, kombi, Price: 549000 Kč, Detail: 1,5 T-GDI, N-line, DCT, kombi
-- Name: Hyundai i30, 1,5 T-GDI Mild Hyb  STYLE DCT, Price: 589000 Kč, Detail: 1,5 T-GDI Mild Hyb  STYLE DCT
-
-Brand: Tesla
-- Name: Tesla Model 3, Standard Range +/PANO/LED/, Price: 439000 Kč, Detail: Standard Range +/PANO/LED/
-- Name: Tesla Model 3, Long Range AWD 75kWh DPH, Price: 619000 Kč, Detail: Long Range AWD 75kWh DPH
-
-Brand: Volvo
-- Name: Volvo XC60, 2.0T 149kW Aut. Kůže TZ 1.Maj, Price: 249000 Kč, Detail: 2.0T 149kW Aut. Kůže TZ 1.Maj
-
-Brand: Land Rover
-- Name: Land Rover Range Rover, 4.4 SDV8 AUTOBIOGRAPHY AWD CZ, Price: 799000 Kč, Detail: 4.4 SDV8 AUTOBIOGRAPHY AWD CZ
-- Name: Land Rover Range Rover Sport, D350 Autobio Tažné Meridian, Price: 2749000 Kč, Detail: D350 Autobio Tažné Meridian
-
-Brand: Alfa Romeo
-- Name: Alfa Romeo Stelvio, 2.2JTD,CZ,1Maj,Q4,AT8,NAVI, Price: 1199900 Kč, Detail: 2.2JTD,CZ,1Maj,Q4,AT8,NAVI
+- Name: Ford C-MAX, Price: 60000 Kč, KM Driven: 245200 km, Year: 2010
+- Name: Ford S-MAX, Price: 74000 Kč, KM Driven: 240813 km, Year: 2007
+- Name: Ford S-MAX, Price: 75000 Kč, KM Driven: 268590 km, Year: 2008
+- Name: Ford Mondeo, Price: 100000 Kč, KM Driven: 204655 km, Year: 2009
+- Name: Ford Mondeo, Price: 125000 Kč, KM Driven: 159958 km, Year: 2011
+- Name: Ford C-MAX, Price: 140000 Kč, KM Driven: 185661 km, Year: 2011
+- Name: Ford C-MAX, Price: 140000 Kč, KM Driven: 185661 km, Year: 2011
+- Name: Ford C-MAX, Price: 215000 Kč, KM Driven: 106387 km, Year: 2014
+- Name: Ford Focus, Price: 289000 Kč, KM Driven: 140146 km, Year: 2019
+- Name: Ford Ecosport, Price: 337590 Kč, KM Driven: 40000 km, Year: 2019
+- Name: Ford Ranger, Price: 365000 Kč, KM Driven: 132075 km, Year: 2014
+- Name: Ford Ranger, Price: 365000 Kč, KM Driven: 132075 km, Year: 2014
+- Name: Ford Ranger, Price: 550000 Kč, KM Driven: 189302 km, Year: 2017
+- Name: Ford Ranger, Price: 550000 Kč, KM Driven: 189302 km, Year: 2017
 
 Brand: Dacia
-- Name: Dacia Duster, 1.6i LPG 2.MAJ VELMI PĚKNÉ, Price: 169000 Kč, Detail: 1.6i LPG 2.MAJ VELMI PĚKNÉ
+- Name: Dacia Sandero, Price: 329000 Kč, KM Driven: 29370 km, Year: 2021
+- Name: Dacia Sandero, Price: 370000 Kč, KM Driven: 1 km, Year: 2024
+- Name: Dacia Sandero, Price: 374500 Kč, KM Driven: 1 km, Year: 2024
+
+Brand: Renault
+- Name: Renault Clio, Price: 490400 Kč, KM Driven: 1 km, Year: 2025
+
+Brand: Suzuki
+- Name: Suzuki SX4, Price: 119900 Kč, KM Driven: 212280 km, Year: 2007
+
+Brand: Volkswagen
+- Name: Volkswagen Bora, Price: 29999 Kč, KM Driven: 324581 km, Year: 2001
+- Name: Volkswagen Touran, Price: 65000 Kč, KM Driven: 257021 km, Year: 2007
+- Name: Volkswagen Passat, Price: 95000 Kč, KM Driven: 198508 km, Year: 2006
+- Name: Volkswagen Passat, Price: 100000 Kč, KM Driven: 190770 km, Year: 2006
+- Name: Volkswagen Tiguan, Price: 170000 Kč, KM Driven: 253536 km, Year: 2011
+- Name: Volkswagen Tiguan, Price: 170000 Kč, KM Driven: 253536 km, Year: 2011
+- Name: Volkswagen Touran, Price: 180000 Kč, KM Driven: 159704 km, Year: 2011
+- Name: Volkswagen Passat, Price: 200000 Kč, KM Driven: 197000 km, Year: 2011
+- Name: Volkswagen Tiguan, Price: 240000 Kč, KM Driven: 63305 km, Year: 2008
+- Name: Volkswagen Tiguan, Price: 250000 Kč, KM Driven: 131864 km, Year: 2012
+- Name: Volkswagen Tiguan, Price: 250000 Kč, KM Driven: 131864 km, Year: 2012
+- Name: Volkswagen Passat, Price: 270000 Kč, KM Driven: 149282 km, Year: 2012
+- Name: Volkswagen Tiguan, Price: 270000 Kč, KM Driven: 99622 km, Year: 2013
+- Name: Volkswagen Passat, Price: 339000 Kč, KM Driven: 174111 km, Year: 2016
+- Name: Volkswagen Golf, Price: 492000 Kč, KM Driven: 55431 km, Year: 2020
+- Name: Volkswagen Passat, Price: 495000 Kč, KM Driven: 54288 km, Year: 2021
+- Name: Volkswagen Passat, Price: 500000 Kč, KM Driven: 143375 km, Year: 2019
+- Name: Volkswagen Passat, Price: 500000 Kč, KM Driven: 143375 km, Year: 2019
+- Name: Volkswagen Passat Variant, Price: 529000 Kč, KM Driven: 155584 km, Year: 2019
+- Name: Volkswagen Golf, Price: 573000 Kč, KM Driven: 10525 km, Year: 2023
+- Name: Volkswagen ID.Buzz, Price: 1219000 Kč, KM Driven: 10888 km, Year: 2023
+
+Brand: BMW
+- Name: BMW Řada 7, Price: 779000 Kč, KM Driven: 169252 km, Year: 2016
+- Name: BMW Řada 5, Price: 1499000 Kč, KM Driven: 98720 km, Year: 2021
+
+Brand: Mini
+- Name: Mini Cooper, Price: 149900 Kč, KM Driven: 231000 km, Year: 2011
+
+Brand: Audi
+- Name: Audi A3, Price: 193000 Kč, KM Driven: 135188 km, Year: 2008
+- Name: Audi A4, Price: 200000 Kč, KM Driven: 173987 km, Year: 2009
+- Name: Audi A3, Price: 215000 Kč, KM Driven: 157003 km, Year: 2013
+- Name: Audi A3, Price: 340000 Kč, KM Driven: 132732 km, Year: 2016
+- Name: Audi A3, Price: 360000 Kč, KM Driven: 101571 km, Year: 2015
+- Name: Audi A3, Price: 535000 Kč, KM Driven: 77040 km, Year: 2022
+- Name: Audi Q3, Price: 829000 Kč, KM Driven: 15101 km, Year: 2021
+- Name: Audi A5, Price: 879000 Kč, KM Driven: 67567 km, Year: 2021
+- Name: Audi Q7, Price: 1299000 Kč, KM Driven: 53842 km, Year: 2021
+
+Brand: Nissan
+- Name: Nissan Qashqai, Price: 289000 Kč, KM Driven: 89006 km, Year: 2015
+
+Brand: Hyundai
+- Name: Hyundai i30, Price: 140000 Kč, KM Driven: 120419 km, Year: 2014
+- Name: Hyundai i30, Price: 140000 Kč, KM Driven: 120419 km, Year: 2014
+- Name: Hyundai i30, Price: 150000 Kč, KM Driven: 156592 km, Year: 2013
+- Name: Hyundai i30, Price: 150000 Kč, KM Driven: 156592 km, Year: 2013
+- Name: Hyundai i30, Price: 160000 Kč, KM Driven: 144605 km, Year: 2016
+- Name: Hyundai i30, Price: 160000 Kč, KM Driven: 144605 km, Year: 2016
+- Name: Hyundai ix35, Price: 190000 Kč, KM Driven: 169793 km, Year: 2012
+- Name: Hyundai ix35, Price: 195000 Kč, KM Driven: 143141 km, Year: 2010
+- Name: Hyundai ix35, Price: 199000 Kč, KM Driven: 100062 km, Year: 2012
+- Name: Hyundai ix35, Price: 240000 Kč, KM Driven: 113008 km, Year: 2014
+- Name: Hyundai i30, Price: 259000 Kč, KM Driven: 76627 km, Year: 2018
+- Name: Hyundai i30, Price: 259000 Kč, KM Driven: 76627 km, Year: 2018
+- Name: Hyundai i30, Price: 360000 Kč, KM Driven: 53213 km, Year: 2021
+
+Brand: MG
+- Name: MG ZS, Price: 328000 Kč, KM Driven: 130000 km, Year: 2019
+- Name: MG ZS, Price: 328000 Kč, KM Driven: 130000 km, Year: 2019
+
+Brand: Kia
+- Name: Kia Cee´d, Price: 80000 Kč, KM Driven: 344006 km, Year: 2013
+- Name: Kia Cee´d, Price: 200000 Kč, KM Driven: 89950 km, Year: 2016
+- Name: Kia Cee´d, Price: 200000 Kč, KM Driven: 89950 km, Year: 2016
+- Name: Kia Cee´d, Price: 210000 Kč, KM Driven: 39394 km, Year: 2012
+- Name: Kia Cee´d, Price: 210000 Kč, KM Driven: 39394 km, Year: 2012
+- Name: Kia Cee´d, Price: 210000 Kč, KM Driven: 128446 km, Year: 2015
+- Name: Kia Cee´d, Price: 230000 Kč, KM Driven: 2147816 km, Year: 2020
+- Name: Kia Cee´d, Price: 230000 Kč, KM Driven: 2147816 km, Year: 2020
+
+Brand: Opel
+- Name: Opel Insignia, Price: 395000 Kč, KM Driven: 111600 km, Year: 2019
+
+Brand: Toyota
+- Name: Toyota Corolla, Price: 699000 Kč, KM Driven: 10 km, Year: 2024
+- Name: Toyota Corolla, Price: 869900 Kč, KM Driven: 10 km, Year: 2024
 
