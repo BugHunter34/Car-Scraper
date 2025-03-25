@@ -1,6 +1,6 @@
-# Import necessary libraries
 import requests
 from bs4 import BeautifulSoup
+import re
 from pypac import PACSession, get_pac
 import urllib3
 
@@ -12,7 +12,7 @@ pac = get_pac(url='http://127.0.0.1:9001/localproxy-2816cff9.pac')
 session = PACSession(pac)
 
 # List of predefined brands
-brands = ["Alfa Romeo","Kia","Lexus","Porsche","Suzuki","Nissan","Aston","Dodge","Jaguar","Seat","Cupra","Land Rover","Škoda" ,"Audi", "Ford", "Opel", "Toyota", "BMW", "Hyundai", "Peugeot", "Volkswagen", "Citroën","Dacia", "Mazda", "Renault", "Volvo", "Fiat", "Mercedes-Benz", "Tesla"]
+brands = ["Alfa Romeo", "Kia", "Lexus", "Porsche","Jeep","MG","Suzuki", "Nissan","Subaru","Polestar", "Aston", "Dodge", "Jaguar", "Seat", "Cupra", "Land Rover", "Škoda", "Mitsubishi", "Mini", "Honda", "Lancia", "SsangYong", "Audi", "Ford", "Opel", "Toyota", "BMW", "Hyundai", "Peugeot", "Volkswagen", "Citroën", "Dacia", "Mazda", "Renault", "Volvo", "Fiat", "Mercedes-Benz", "Tesla"]
 
 def detect_brand(car_name):
     for brand in brands:
@@ -50,17 +50,25 @@ def scrap_price(pages_to_scrape):
             car_name_element = car_link.find('span', class_='c-item__name')
             car_model_element = car_link.find('span', class_='c-item__name--suffix')
             car_price_element = car_data_wrap.find('div', class_='c-item__data').find('div', class_='c-item__price')
+            car_info_element = car_data_wrap.find('div', class_='c-item__info')
             
-            if car_name_element and car_model_element and car_price_element:
-                car_name = car_name_element.text.strip()
+            if car_name_element and car_model_element and car_price_element and car_info_element:
+                car_full_name = car_name_element.text.strip()
                 car_model = car_model_element.text.strip()
                 car_price = car_price_element.text.strip()
-                
-                # Combine name and model
-                # full_name = f"{car_name} {car_model}"
-                
+                car_info = car_info_element.text.strip()
+
+                # Use regex to split the name and detail based on the first comma
+                match = re.match(r'^(.*?)(,.*)$', car_model)
+                if match:
+                    car_model = match.group(1).strip()
+                    detail = match.group(2).strip()
+                else:
+                    car_model = car_model.strip()
+                    detail = ""
+
                 # Detect brand
-                brand = detect_brand(car_name)
+                brand = detect_brand(car_full_name)
                 
                 # Remove currency symbols and non-breaking spaces, convert price to integer (if possible)
                 car_price = car_price.replace('Kč', '').replace('\xa0', '').replace(',', '').strip()
@@ -69,9 +77,27 @@ def scrap_price(pages_to_scrape):
                 except ValueError:
                     car_price = 'N/A'
                 
-                cars.append({'brand': brand, 'name': car_name,'price': car_price, 'model': car_model})
+                # Extract age and kilometers driven
+                car_info_parts = car_info.split(',')
+                age_of_car = car_info_parts[0].strip()
+                kilometers_driven = car_info_parts[1].replace('\xa0', '').strip()
+
+                # Extract name from model
+                name_parts = car_full_name.split(',')
+                car_name = name_parts[0].strip()
+                if len(name_parts) > 1:
+                    car_model = name_parts[1].strip()
+                
+                cars.append({
+                    'brand': brand,
+                    'name': car_name,
+                    'model': car_model,
+                    'price': car_price,
+                    'age': age_of_car,
+                    'kilometers': kilometers_driven
+                })
             else:
-                print(f"Error: Missing car name, model, or price element on page {page}.")
+                print(f"Error: Missing car name, model, price, or info element on page {page}.")
     
     return cars
 
@@ -88,7 +114,7 @@ def save_to_file(sorted_car_list, filename):
         for brand in grouped_cars:
             file.write(f"Brand: {brand}\n")
             for car in grouped_cars[brand]:
-                file.write(f"- Name: {car['name']}, Price: {car['price']} Kč, Detail: {car['model']}\n")
+                file.write(f"- Name: {car['name']}, Price: {car['price']} Kč, KM Driven: {car['kilometers']}, Year: {car['age']}\n")
             file.write("\n")
 
 # Number of pages to scrape
