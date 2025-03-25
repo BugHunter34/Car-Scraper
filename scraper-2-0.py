@@ -12,7 +12,7 @@ pac = get_pac(url='http://127.0.0.1:9001/localproxy-2816cff9.pac')
 session = PACSession(pac)
 
 # List of predefined brands
-brands = ["Alfa Romeo","Land Rover","Škoda" ,"Audi", "Ford", "Opel", "Toyota", "BMW", "Hyundai", "Peugeot", "Volkswagen", "Citroën","Dacia", "Mazda", "Renault", "Volvo", "Fiat", "Mercedes-Benz", "Tesla"]
+brands = ["Alfa Romeo","Kia","Lexus","Porsche","Suzuki","Nissan","Aston","Dodge","Jaguar","Seat","Cupra","Land Rover","Škoda" ,"Audi", "Ford", "Opel", "Toyota", "BMW", "Hyundai", "Peugeot", "Volkswagen", "Citroën","Dacia", "Mazda", "Renault", "Volvo", "Fiat", "Mercedes-Benz", "Tesla"]
 
 def detect_brand(car_name):
     for brand in brands:
