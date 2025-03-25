@@ -6,3 +6,7 @@ then div c-item__data-wrap
 then a sds-surface sds-surface--clickable sds-surface--00 c-item__link with picture of the car in href
 then the name is in span c-item__name, model of the car in span c-item__name--suffix, and price in
 div c-item__data-wrap > div c-item__data > div class="notranslate c-item__price", translate="no", lang="cs-cz" and the content format is 499&nbsp;000 Kč
+
+the KM driven class is:
+div c-item__data-wrap then, div c-item__info: "2017, 135&nbsp;860 Km"
+so sepreate the age of car from the kilometers driven 
