@@ -2,3 +2,5 @@ requests
 bs4
 pypac
 urllib3
+json
+hashlib
