@@ -1,6 +1,4 @@
 
 # Car-Scraper
-# In pages to scrape change the number to how many pages the scraper will scrape
-MAX is 500,
-pages_to_scrape = 20,
-graphs in .ipynb notebook
+# In pages to scrape (Line 150), change the number to how many pages the scraper will scrape
+pages_to_scrape = 500 (MAX), graphs/stats in .ipynb notebook
