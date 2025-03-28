@@ -1,0 +1,18 @@
+{
+        "ID": "0d0fc201f2f76751fc9affcb11431651",
+        "Brand": "Škoda",
+        "Name": "Škoda Kamiq",
+        "Detail": "Style+ 1.5 TSI 110kw DSG tažné",
+        "Price": 439000,
+        "Age": 2020,
+        "Kilometers": 145680
+    },
+    {
+        "ID": "e30c8392719f83c9b3e8a8f40ae9b2a7",
+        "Brand": "Dacia",
+        "Name": "Dacia Logan",
+        "Detail": "1",
+        "Price": 77500,
+        "Age": 2012,
+        "Kilometers": 148000
+    },.......
